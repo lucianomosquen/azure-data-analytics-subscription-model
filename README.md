@@ -153,7 +153,7 @@ customer-churn-analytics/
 ├── powerbi/
 │   └── customer_churn_dashboard.pbix
 │
-├── screenshots/
+├── images/
 │   └── dashboard_overview.jpg
 │
 └── README.md
@@ -173,5 +173,5 @@ Proyecto desarrollado como **portfolio profesional**, orientado a demostrar:
 
 ## 📷 Vista del dashboard
 
-![Customer Churn Dashboard](screenshots/dashboard_overview.jpg)
+![Customer Churn Dashboard](images/dashboard_overview.jpg)
 
