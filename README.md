@@ -170,3 +170,8 @@ Proyecto desarrollado como **portfolio profesional**, orientado a demostrar:
 - Uso realista de Azure
 - Dominio de SQL y Power BI
 - Buenas prácticas de modelado y visualización
+
+## 📷 Vista del dashboard
+
+![Customer Churn Dashboard](screenshots/dashboard_overview.jpg)
+
